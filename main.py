@@ -118,17 +118,17 @@ student_1.rate_lesson(best_lecturer_1, 'Python', 10)
 student_1.rate_lesson(best_lecturer_1, 'Python', 10)
 student_1.rate_lesson(best_lecturer_1, 'Python', 10)
 
-student_1.rate_lesson(best_lecturer_2, 'Python', 5)
-student_1.rate_lesson(best_lecturer_2, 'Python', 5)
-student_1.rate_lesson(best_lecturer_2, 'Python', 5)
+student_1.rate_lesson(best_lecturer_2, 'Python', 10)
+student_1.rate_lesson(best_lecturer_2, 'Python', 10)
+student_1.rate_lesson(best_lecturer_2, 'Python', 10)
 
 student_1.rate_lesson(best_lecturer_1, 'Python', 7)
 student_1.rate_lesson(best_lecturer_1, 'Python', 8)
 student_1.rate_lesson(best_lecturer_1, 'Python', 9)
 
 student_2.rate_lesson(best_lecturer_2, 'Java', 10)
-student_2.rate_lesson(best_lecturer_2, 'Java', 5)
-student_2.rate_lesson(best_lecturer_2, 'Java', 5)
+student_2.rate_lesson(best_lecturer_2, 'Java', 10)
+student_2.rate_lesson(best_lecturer_2, 'Java', 10)
 
 student_3.rate_lesson(best_lecturer_3, 'Python', 5)
 student_3.rate_lesson(best_lecturer_3, 'Python', 6)
